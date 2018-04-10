@@ -1,0 +1,23 @@
+{
+  "name": "javascript-tips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dem97171/javascript-tips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dem97171/javascript-tips/issues"
+  },
+  "homepage": "https://github.com/dem97171/javascript-tips#readme",
+  "devDependencies": {
+    "lodash": "^4.17.5",
+    "ramda": "^0.25.0"
+  }
+}
